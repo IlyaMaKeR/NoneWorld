@@ -23,7 +23,7 @@ NoneWorld — это игра, где игроки исследуют таинс
 Всю новую информацию вы можете найти на этой странице GitHub, ниже этого текста в "Новости."
 
 # Лицензия
-Этот проект распространяется под [название лицензии]. Обратите внимание, что использование названия "NoneWorld" и любых связанных с ним брендов без письменного разрешения запрещено.
+Этот проект распространяется под [MIT License]. Обратите внимание, что использование названия "NoneWorld" и любых связанных с ним брендов без письменного разрешения запрещено.
 
 # Новости
 Пусто
@@ -52,7 +52,7 @@ Cocaterubka is a large animal, reaching nearly 2 meters in height, with sharp cl
 The game is currently under development, and the project structure will be revised, along with the creation of the game's website and more. All new information can be found on this GitHub page, below this text in the "News" section.
 
 # License
-This project is distributed under [license name]. Please note that the use of the name "NoneWorld" and any related brands without written permission is prohibited.
+This project is distributed under [MIT License]. Please note that the use of the name "NoneWorld" and any related brands without written permission is prohibited.
 
 # News
 Empty
