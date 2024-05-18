@@ -44,10 +44,8 @@ Unlike terrestrial plants, these trees do not require ultraviolet light for nutr
 Despite this, useful plants can also be found in this biome. For example, "Prometheus' Light" is a flower that glows and can be used as a light source or a temporary battery. There is also "Moon's Tear," a flower with healing properties that helps heal wounds and cleanse the body of parasites.
 
 # Animals
-Mon-tari
 Mon-tari is a harmless herbivorous animal that resembles a cross between a kangaroo and a frog. It lives in small groups of 6-8 individuals. Males are 14-16 cm shorter than females, with an overall height of about 1.65 m. Their meat tastes like turkey, and their lungs can be used to create filters against spores. They got their name from the distinctive sound "monta" they make.
 
-Cocaterubka
 Cocaterubka is a large animal, reaching nearly 2 meters in height, with sharp claws used for digging tunnels in tree roots. Their fur is coated with toxic resin, making them resemble worms. Cocaterubkas are almost blind and have limited sense of smell but possess acute hearing. These creatures are peaceful but become aggressive if their nests are threatened.
 
 # Installation and Launch
