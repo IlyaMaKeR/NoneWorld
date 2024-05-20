@@ -26,7 +26,7 @@ NoneWorld — это игра, где игроки исследуют таинс
 Этот проект распространяется под [Лицензия MIT с ограничением на использование имени]. Обратите внимание, что использование названия "NoneWorld" и любых связанных с ним брендов без письменного разрешения запрещено.
 
 # Новости
-Пусто
+Все подробности вы можете узнать на официальном сайте игры noneworld.ru и noneworld.store
 
 # NoneWorld
 # English
@@ -55,4 +55,4 @@ The game is currently under development, and the project structure will be revis
 This project is distributed under [MIT License with Restriction on Name Usage]. Please note that the use of the name "NoneWorld" and any related brands without written permission is prohibited.
 
 # News
-Empty
+noneworld.ru & noneworld.store
